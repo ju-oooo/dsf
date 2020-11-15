@@ -96,9 +96,7 @@
                 <div class="sum">-15</div>
             </div>
         </div>
-
     </div>
-
 </div>
 </template>
 
@@ -111,7 +109,6 @@ export default {
             checked: 1,
             dataList: 9,
             // dataList: [{...}],
-
         };
     }
 };

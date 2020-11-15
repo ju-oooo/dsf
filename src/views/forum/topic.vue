@@ -19,7 +19,7 @@
     </div>
     <img class="bg-img" src="../../assets/images/bg-nav.png" />
     <div class="content">
-        <span class="tit">小组简介：</span>我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我
+        <span class="tit">话题简介：</span>我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我是正文我
     </div>
     <div class="nav">
         <div :class="navActive===1?'item line':'item'" @click="navActive=1">全部</div>

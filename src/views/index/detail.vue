@@ -32,7 +32,7 @@
                     <div class="after"></div>
                     项目类型
                 </div>
-                <div class="right">工程分包</div>
+                <div class="right">新设备招标</div>
             </div>
             <div class="line">
                 <div class="left">

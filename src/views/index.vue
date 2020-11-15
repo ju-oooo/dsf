@@ -28,9 +28,9 @@
     </div>
     <!-- 工程列表 -->
     <div class="engineering-nav">
-        <div :class="['nav',navActive==1?'active':'']" @click="navActive=1">工程分包</div>
-        <div :class="['nav',navActive==2?'active':'']" @click="navActive=2">新设备招标</div>
-        <div :class="['nav',navActive==3?'active':'']" @click="navActive=3">设备维护维修</div>
+        <div :class="['nav',navActive==1?'active':'']" @click="navActive=1">新设备招标</div>
+        <div :class="['nav',navActive==2?'active':'']" @click="navActive=2">设备维护维修</div>
+        <div :class="['nav',navActive==3?'active':'']" @click="navActive=3">工程分包</div>
     </div>
     <div class="engineering-list">
 

@@ -39,6 +39,12 @@
             <textarea class="text" placeholder="写点什么~"></textarea>
         </div>
     </div>
+     <div class="row hei">
+        <div class="left">项目经验</div>
+        <div class="right start">
+            <textarea class="text" placeholder="以往做过哪些方面的项目"></textarea>
+        </div>
+    </div>
 
     <div class="btn">保存</div>
 </div>
